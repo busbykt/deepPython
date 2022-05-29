@@ -3,7 +3,7 @@ Multi-class classification using deep learning in keras.
 '''
 
 # %%
-# Dependencies
+# dependencies
 import numpy as np
 import pandas as pd
 from tensorflow import keras
